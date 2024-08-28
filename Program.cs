@@ -192,9 +192,9 @@ namespace AdoCommand3project
             
             p1.connection();
             p1.showAllData();
-            //p1.insertData();
+            p1.insertData();
             //p1.updatetData();
-            p1.deleteById();
+            //p1.deleteById();
             p1.showAllData();
 
             Console.ReadLine();
